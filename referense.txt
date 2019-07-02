@@ -4,3 +4,5 @@ https://www.digikey.com/en/product-highlight/i/insight-sip/isp1507-ax-all-purpos
 https://www.insightsip.com/products/bluetooth-smart-modules/isp1507 - manufacturer isp1507
 https://www.analog.com/ru/products/ad8233.html#product-overview -  manufacturer  AFE AD8233
 https://www.digikey.gr/en/articles/techzone/2017/jan/specialty-heart-rate-monitor-ics-overcome-ecg-noise - article about ad8233
+https://www.digikey.com/en/articles/techzone/2016/feb/usb-3-1-usb-type-c
+https://www.digikey.com/en/product-highlight/c/cui/usb-type-c-connector
