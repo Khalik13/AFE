@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\test_work\AFE\a
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,13 +19,16 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=capasistors_non_polarized
+LastFocusedTable=resistors
 [Table1]
 SchemaName=
 TableName=IC
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=name0=51|datasheet0=74|manufacturer0=92|libref0=50|pcbref0=56|lib path0=63|foot path0=72
 [Table2]
 SchemaName=
 TableName=capasistors_non_polarized
@@ -38,12 +41,18 @@ TableName=connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=name0=51|pin number0=83|type0=45|datasheet0=74|manufacturer0=92|libref0=50|pcbref0=56|lib path0=63|foot path0=72
 [Table4]
 SchemaName=
 TableName=resistors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=name0=51|resistanse0=74|package0=66|power0=56|datasheet0=74|manufacturer0=92|libref0=50|pcbref0=56|lib path0=63|foot path0=72
 [Table5]
 SchemaName=
 TableName=semicoductors
