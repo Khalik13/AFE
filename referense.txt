@@ -6,3 +6,6 @@ https://www.analog.com/ru/products/ad8233.html#product-overview -  manufacturer 
 https://www.digikey.gr/en/articles/techzone/2017/jan/specialty-heart-rate-monitor-ics-overcome-ecg-noise - article about ad8233
 https://www.digikey.com/en/articles/techzone/2016/feb/usb-3-1-usb-type-c
 https://www.digikey.com/en/product-highlight/c/cui/usb-type-c-connector
+https://www.digikey.com/product-detail/en/illinois-capacitor/RJD2032C1/1572-1617-ND/6159135 -- COIN LITIUM
+https://cdn-shop.adafruit.com/product-files/1317/C1515_-_Li-Polymer_402025_150mAh_3.7V_with_PCM.pdf --litum battary
+https://www.murata.com/~/media/webrenewal/support/library/catalog/products/switch/switch/o33e.ashx?la=en-us -- connectors
