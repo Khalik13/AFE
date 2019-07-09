@@ -1,0 +1,13 @@
+Added Component: Designator=R21(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "https://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=D1-4
+Added Pin To Net: NetName=NetC1_1 Pin=D3-10
+Added Pin To Net: NetName=+3V Pin=R21-1
+Added Pin To Net: NetName=NetC17_1 Pin=R21-2
+Added Member To Class: ClassName=Sheet1 Member=Component R21 res

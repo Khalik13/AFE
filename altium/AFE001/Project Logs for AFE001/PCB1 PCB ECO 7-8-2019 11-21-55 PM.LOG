@@ -1,0 +1,30 @@
+Added Component: Designator=X2(1909763-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\ENG_CD_1909763_B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1909763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "RF-SMALLEST"; VariantName = "[No Variations]"
+Added Component: Designator=X3(1909763-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\ENG_CD_1909763_B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1909763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "RF-SMALLEST"; VariantName = "[No Variations]"
+Added Component: Designator=X4(1909763-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\ENG_CD_1909763_B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1909763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "RF-SMALLEST"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR8_2 Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=NetR7_2 Pin=X3-1
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=NetR13_2 Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-2

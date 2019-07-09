@@ -1,0 +1,13 @@
+Added Component: Designator=HL1(Chip2PinSM127P600-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.chipdip.ru/lib/195/DOC000195322.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Kingbring"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "KPHHS-1005CGCK"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=D1-4
+Added Pin To Net: NetName=NetC1_1 Pin=D3-10
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_1 Pin=R20-2
+Added Net: Name=NetHL1_1
+Added Member To Class: ClassName=Sheet1 Member=Component HL1 LED

@@ -1,0 +1,14 @@
+Added Component: Designator=SA1(IT-1184)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\IT-1184 Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Switronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IT-1184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "but"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=D1-4
+Added Pin To Net: NetName=NetD3_10 Pin=D3-10
+Added Pin To Net: NetName=NetC17_1 Pin=SA1-1
+Added Pin To Net: NetName=NetC17_1 Pin=SA1-1
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Member To Class: ClassName=Sheet1 Member=Component SA1 BUT

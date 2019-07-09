@@ -1,0 +1,24 @@
+Added Component: Designator=X1(WM12856CT-ND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\usb_type_c\E1054500101_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "WM12856CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "USB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=D1-4
+Added Pin To Net: NetName=NetC1_1 Pin=D3-10
+Added Pin To Net: NetName=GND Pin=X1-A1
+Added Pin To Net: NetName=NetC1_1 Pin=X1-A4
+Added Pin To Net: NetName=NetR1_2 Pin=X1-A5
+Added Pin To Net: NetName=NetC5_1 Pin=X1-A6
+Added Pin To Net: NetName=NetC6_1 Pin=X1-A7
+Added Pin To Net: NetName=NetC1_1 Pin=X1-A9
+Added Pin To Net: NetName=GND Pin=X1-A12
+Added Pin To Net: NetName=GND Pin=X1-B1
+Added Pin To Net: NetName=NetC1_1 Pin=X1-B4
+Added Pin To Net: NetName=NetR1_2 Pin=X1-B5
+Added Pin To Net: NetName=NetC5_1 Pin=X1-B6
+Added Pin To Net: NetName=NetC6_1 Pin=X1-B7
+Added Pin To Net: NetName=NetC1_1 Pin=X1-B9
+Added Pin To Net: NetName=GND Pin=X1-B12
+Added Member To Class: ClassName=Sheet1 Member=Component X1 USB_TYPE_C_VAR2

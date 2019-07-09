@@ -1,0 +1,437 @@
+Added Component: Designator=C1(CAP0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "4.7e-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR71C475KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "4.7e-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR71C475KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "4.7e-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR71C475KA73L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "4.7e-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1H470J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "4.7e-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1H470J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "3.3e-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71H332KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "1e-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1E102JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "22e-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "22e-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "10e-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.chipdip.ru/lib/250/DOC000250694.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71C104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "10e-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.chipdip.ru/lib/250/DOC000250694.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71C104K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOT95P270X15-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\power manadge\21984e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "MCP73831/2"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOT89-150P409X160-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\power manadge\DOC000222907.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "JRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "NJM78L03A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(PQFN65P400X400X80_HS-17N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\uart\DS_FT230X-5395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "FTDI Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "FT230X"; VariantName = "[No Variations]"
+Added Component: Designator=D4(BGA20C40P5X4_204X171X56)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\ad8233\AD8233.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "AD8233"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LGA6C330P2X3_800X800X100)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\isp1507\isp_ble_DS1507-1221980.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Insight Sip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "ISP1507"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0727RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "27e0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0727RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "27e0"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e6"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e6"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "1e6"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "1e6"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-071ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "1e6"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07180KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "18e5"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07180KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "18e5"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e6"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e6"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e6"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0751RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "51"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT143)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part number"; Value = "PRTR5V0U2X"; VariantName = "[No Variations]"
+Added Component: Designator=X2(1909763-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\ENG_CD_1909763_B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1909763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "RF-SMALLEST"; VariantName = "[No Variations]"
+Added Component: Designator=X3(1909763-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\ENG_CD_1909763_B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1909763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "RF-SMALLEST"; VariantName = "[No Variations]"
+Added Component: Designator=X4(1909763-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "D:\test_work\AFE\datasheets\connectors\ENG_CD_1909763_B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "1909763"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "RF-SMALLEST"; VariantName = "[No Variations]"
+Added Component: Designator=X5(J-Link6.)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "https://www.segger.com/products/debug-probes/j-link/accessories/adapters/6-pin-needle-adapter/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Jey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "J-link6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin total"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "type"; Value = "Debug"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V Pin=C14-1
+Added Pin To Net: NetName=+3V Pin=D2-2
+Added Pin To Net: NetName=+3V Pin=D3-1
+Added Pin To Net: NetName=+3V Pin=D3-5
+Added Pin To Net: NetName=+3V Pin=D4-A2
+Added Pin To Net: NetName=+3V Pin=D4-C2
+Added Pin To Net: NetName=+3V Pin=D5-26
+Added Pin To Net: NetName=+3V Pin=R7-1
+Added Pin To Net: NetName=+3V Pin=R8-1
+Added Pin To Net: NetName=+3V Pin=R18-2
+Added Pin To Net: NetName=+3V Pin=X5-1
+Added Net: Name=+3V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D3-6
+Added Pin To Net: NetName=GND Pin=D3-7
+Added Pin To Net: NetName=GND Pin=D3-8
+Added Pin To Net: NetName=GND Pin=D4-A1
+Added Pin To Net: NetName=GND Pin=D4-B2
+Added Pin To Net: NetName=GND Pin=D4-B3
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-7
+Added Pin To Net: NetName=GND Pin=D5-8
+Added Pin To Net: NetName=GND Pin=D5-10
+Added Pin To Net: NetName=GND Pin=D5-12
+Added Pin To Net: NetName=GND Pin=D5-14
+Added Pin To Net: NetName=GND Pin=D5-16
+Added Pin To Net: NetName=GND Pin=D5-18
+Added Pin To Net: NetName=GND Pin=D5-21
+Added Pin To Net: NetName=GND Pin=D5-23
+Added Pin To Net: NetName=GND Pin=D5-24
+Added Pin To Net: NetName=GND Pin=D5-25
+Added Pin To Net: NetName=GND Pin=D5-31
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X5-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_1 Pin=C4-1
+Added Pin To Net: NetName=NetB1_1 Pin=D1-4
+Added Pin To Net: NetName=NetB1_1 Pin=D2-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-4
+Added Pin To Net: NetName=NetC1_1 Pin=D3-10
+Added Pin To Net: NetName=NetC1_1 Pin=U1-4
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R3-2
+Added Pin To Net: NetName=NetC5_1 Pin=U1-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R4-2
+Added Pin To Net: NetName=NetC6_1 Pin=U1-3
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R14-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=D5-40
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=D4-D3
+Added Pin To Net: NetName=NetC10_1 Pin=R14-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=D4-C3
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=D4-C4
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D4-D5
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=D4-B4
+Added Pin To Net: NetName=NetC12_1 Pin=R17-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=D4-D4
+Added Pin To Net: NetName=NetC12_2 Pin=R9-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R17-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=D4-A5
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=D4-A3
+Added Pin To Net: NetName=NetC15_1 Pin=R18-1
+Added Pin To Net: NetName=NetC15_1 Pin=R19-2
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC17_1 Pin=D5-13
+Added Pin To Net: NetName=NetC17_1 Pin=X5-3
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetD1_5 Pin=D1-5
+Added Net: Name=NetD1_5
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=NetD3_3 Pin=R3-1
+Added Net: Name=NetD3_3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_4 Pin=R4-1
+Added Net: Name=NetD3_4
+Added Pin To Net: NetName=NetD3_9 Pin=D3-9
+Added Pin To Net: NetName=NetD3_9 Pin=R6-1
+Added Net: Name=NetD3_9
+Added Pin To Net: NetName=NetD3_10 Pin=D3-10
+Added Pin To Net: NetName=NetD3_10 Pin=R5-1
+Added Net: Name=NetD3_10
+Added Pin To Net: NetName=NetD4_B1 Pin=D4-B1
+Added Pin To Net: NetName=NetD4_B1 Pin=D5-33
+Added Net: Name=NetD4_B1
+Added Pin To Net: NetName=NetD4_B5 Pin=D4-B5
+Added Pin To Net: NetName=NetD4_B5 Pin=R15-1
+Added Net: Name=NetD4_B5
+Added Pin To Net: NetName=NetD4_C1 Pin=D4-C1
+Added Pin To Net: NetName=NetD4_C1 Pin=D5-32
+Added Net: Name=NetD4_C1
+Added Pin To Net: NetName=NetD4_C5 Pin=D4-C5
+Added Pin To Net: NetName=NetD4_C5 Pin=R16-1
+Added Net: Name=NetD4_C5
+Added Pin To Net: NetName=NetD4_D1 Pin=D4-D1
+Added Pin To Net: NetName=NetD4_D1 Pin=R12-1
+Added Net: Name=NetD4_D1
+Added Pin To Net: NetName=NetD4_D2 Pin=D4-D2
+Added Pin To Net: NetName=NetD4_D2 Pin=R12-2
+Added Net: Name=NetD4_D2
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=NetD5_4 Pin=R6-2
+Added Net: Name=NetD5_4
+Added Pin To Net: NetName=NetD5_20 Pin=D5-20
+Added Pin To Net: NetName=NetD5_20 Pin=D5-22
+Added Net: Name=NetD5_20
+Added Pin To Net: NetName=NetD5_28 Pin=D5-28
+Added Pin To Net: NetName=NetD5_28 Pin=X5-2
+Added Net: Name=NetD5_28
+Added Pin To Net: NetName=NetD5_30 Pin=D5-30
+Added Pin To Net: NetName=NetD5_30 Pin=X5-4
+Added Net: Name=NetD5_30
+Added Pin To Net: NetName=NetD5_34 Pin=D5-34
+Added Pin To Net: NetName=NetD5_34 Pin=R5-2
+Added Net: Name=NetD5_34
+Added Pin To Net: NetName=NetD5_43 Pin=D5-43
+Added Pin To Net: NetName=NetD5_43 Pin=R20-1
+Added Net: Name=NetD5_43
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R16-2
+Added Pin To Net: NetName=NetR7_2 Pin=X3-1
+Added Pin To Net: NetName=NetR7_2 Pin=X3-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R15-2
+Added Pin To Net: NetName=NetR8_2 Pin=X2-1
+Added Pin To Net: NetName=NetR8_2 Pin=X2-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR13_2 Pin=X4-1
+Added Pin To Net: NetName=NetR13_2 Pin=X4-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Net: Name=NetR20_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,78 @@
+Added Component: Designator=B1(lION)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "150e-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://cdn-shop.adafruit.com/product-files/1317/C1515_-_Li-Polymer_402025_150mAh_3.7V_with_PCM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "PKCELL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Li-Polymer 402025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "3.7"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "capasisctance"; Value = "22e-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "datasheet"; Value = "https://static.c"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM155R71H223KA12B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e5"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "13e3"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e5"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "10e5"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "datasheet"; Value = "ttps://ru.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-07360KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistanse"; Value = "36e5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetB1_1 Pin=D1-4
+Added Pin To Net: NetName=NetC1_1 Pin=D3-10
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetD1_5 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetC12_2 Pin=R10-1
+Added Pin To Net: NetName=NetC10_2 Pin=R10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R11-1
+Added Pin To Net: NetName=NetD4_D2 Pin=R11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Member To Class: ClassName=Sheet1 Member=Component B1 BAT
+Added Member To Class: ClassName=Sheet1 Member=Component C10 cap
+Added Member To Class: ClassName=Sheet1 Member=Component R1 res
+Added Member To Class: ClassName=Sheet1 Member=Component R2 res
+Added Member To Class: ClassName=Sheet1 Member=Component R10 res
+Added Member To Class: ClassName=Sheet1 Member=Component R11 res
+Added Member To Class: ClassName=Sheet1 Member=Component R13 res
